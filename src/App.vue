@@ -3,7 +3,10 @@
     theme="myCustomTheme"
     class="bg-grey-darken-4 px-0"
   >
-    <v-container class="mx-auto pa-0" style="max-width: 1200px">
+    <v-container
+      class="mx-auto pa-0"
+      style="max-width: 1200px"
+    >
       <v-toolbar class="pl-5">
         <template #prepend>
           <div class="text-h4 font-weight-bold my-5 red text-red-darken-2">
