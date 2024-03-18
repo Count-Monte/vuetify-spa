@@ -1,6 +1,6 @@
 <template>
   <v-sheet
-    color="#E52F37"
+    color="primary"
     height="450px"
     class="text-center px-15 pt-15"
   >

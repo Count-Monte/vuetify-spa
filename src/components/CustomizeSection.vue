@@ -2,7 +2,7 @@
   <v-sheet
     class="d-flex flex-row align-center justify-space-around"
     height="500px"
-    color="#F1FAFF"
+    color="secondary"
   >
     <v-list
       base-color="transparent"

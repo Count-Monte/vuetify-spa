@@ -1,6 +1,6 @@
 <template>
   <v-sheet
-    color="#F1FAFF"
+    color="secondary"
     class="py-15 text-center"
     height="500px"
   >

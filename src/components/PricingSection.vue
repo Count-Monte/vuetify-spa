@@ -2,7 +2,7 @@
   <v-sheet
     class="d-flex align-center pa-15"
     height="600px"
-    color="#F1FAFF"
+    color="secondary"
   >
     <v-row class="d-flex align-center">
       <v-col cols="5">

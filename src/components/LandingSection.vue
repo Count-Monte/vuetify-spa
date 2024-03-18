@@ -1,6 +1,6 @@
 <template>
   <v-sheet
-    color="#860A0A"
+    color="section"
     class="d-flex flex-column align-center justify-center"
     height="600px"
   >
@@ -24,7 +24,7 @@
         class="ml-5"
         height="55px"
         rounded
-        color="#E52F37"
+        color="primary"
         flat
       >
         GET STARTED

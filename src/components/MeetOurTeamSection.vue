@@ -2,7 +2,7 @@
   <v-sheet
     class="text-center pt-15"
     height="800px"
-    color="#F1FAFF"
+    color="secondary"
   >
     <div class="text-h4 font-weight-bold">
       Meet Our Team

@@ -1,5 +1,5 @@
 <template>
-  <v-sheet color="#F1FAFF">
+  <v-sheet color="secondary">
     <v-row class="pa-10 d-flex align-center">
       <v-col class="pa-15">
         <div class="text-h4 font-weight-medium">
@@ -41,7 +41,7 @@
           :key="n"
           class="my-5 elevation-5 bg-white rounded-0"
           border="start"
-          border-color="#27b36a"
+          border-color="light-green-darken-4"
           outlined
         >
           <div class="d-flex flex-row align-center ga-3">

@@ -30,7 +30,7 @@
         class="ml-5"
         height="55px"
         rounded
-        color="#E52F37"
+        color="primary"
         flat
       >
         Discover More
