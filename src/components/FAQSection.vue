@@ -3,7 +3,7 @@
     class="text-center"
     height="700px"
   >
-    <div class="text-h4 font-weight-medium mt-15 text-blue-grey-darken-4">
+    <div class="text-h4 font-weight-medium pt-15 text-blue-grey-darken-4">
       Frequently Asked Questions
     </div>
     <div class="text-body-1 text-grey-darken-1 mt-5">
