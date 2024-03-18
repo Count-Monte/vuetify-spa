@@ -53,19 +53,6 @@
 </template>
 
 <script setup>
-import AmazingFeaturesSection from './components/AmazingFeaturesSection.vue';
-import AwardWinningSection from './components/AwardWinningSection.vue';
-import ContactUsSection from './components/ContactUsSection.vue';
-import CustomizeSection from './components/CustomizeSection.vue';
-import DiscoverHelp from './components/DiscoverHelp.vue';
-import FAQSection from './components/FAQSection.vue';
-import FunFactsSection from './components/FunFactsSection.vue';
-import MeetOurTeamSection from './components/MeetOurTeamSection.vue';
-import OurPortfolioSection from './components/OurPortfolioSection.vue';
-import PricingSection from './components/PricingSection.vue';
-import WhatPeopleSaySection from './components/WhatPeopleSaySection.vue';
-import WhatWeDoSection from './components/WhatWeDoSection.vue';
-
 const menu = [
   "Home",
   "About",
