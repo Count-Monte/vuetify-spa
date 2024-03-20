@@ -11,13 +11,16 @@
       <v-col
         v-for="item in agency"
         :key="item.title"
-        class="mt-10"
+        class="mt-10 d-flex flex-column align-center"
       >
-        <img :src="item.icon">
-        <div class="text-h4 font-weight-bold mt-5">
+        <v-img
+          :src="item.icon"
+          width="60"
+        />
+        <div class="text-h4 font-weight-bold mt-3">
           {{ item.title }}
         </div>
-        <div class="text-body-1 mt-5">
+        <div class="text-body-1 mt-2">
           {{ item.description }}
         </div>
       </v-col>

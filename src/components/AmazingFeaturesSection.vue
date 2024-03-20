@@ -17,7 +17,7 @@
         class="d-flex ga-5 pa-5 text-left"
       >
         <div class="mt-2">
-          <img :src="item.icon">
+          <v-img :src="item.icon" />
         </div>
         <div>
           <div class="text-h6 font-weight-bold text-blue-grey-darken-4">

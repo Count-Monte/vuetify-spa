@@ -18,7 +18,11 @@
         :class="{ 'bg-grey-lighten-5 elevation-5 rounded': index === 0 }"
       >
         <template #prepend>
-          <img :src="item.icon">
+          <v-img
+            :src="item.icon"
+            :width="60"
+            :height="60"
+          />
         </template>
 
         <template #title>
@@ -33,10 +37,12 @@
       </v-list-item>
     </v-list>
     <div>
-      <img
+      <v-img
         src="../assets/customize_bg.png"
         class="elevation-5"
-      >
+        width="445"
+        height="365"
+      />
     </div>
   </v-sheet>
 </template>

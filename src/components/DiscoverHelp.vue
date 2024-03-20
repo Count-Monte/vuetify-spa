@@ -4,7 +4,11 @@
     height="500px"
   >
     <div>
-      <img src="../assets/discover_bg.png">
+      <v-img
+        src="../assets/discover_bg.png"
+        height="340"
+        width="450"
+      />
     </div>
     <div class="w-50">
       <div class="text-h4">

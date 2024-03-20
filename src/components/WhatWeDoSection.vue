@@ -16,7 +16,11 @@
         :key="item.title"
         class="d-flex flex-column align-center"
       >
-        <img :src="item.icon">
+        <v-img
+          :src="item.icon"
+          height="75"
+          width="75"
+        />
         <div class="text-h6 mt-1">
           {{ item.title }}
         </div>

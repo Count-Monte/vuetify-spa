@@ -45,7 +45,13 @@
           outlined
         >
           <div class="d-flex flex-row align-center ga-3">
-            <img src="../assets/avatar.png">
+            <div>
+              <v-img
+                width="66"
+                height="66"
+                src="../assets/avatar.png"
+              />
+            </div>
             <div class="font-weight-bold text-blue-grey-darken-4 text-h6">
               John Done /
               <span class="text-green-lighten-1">CEO - Epic Design</span>
